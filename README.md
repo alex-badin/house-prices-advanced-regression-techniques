@@ -11,3 +11,6 @@ Tools used:
   - Random Forrest
   - Gradient boosting
   - Models Stackingf
+
+Result:
+Log RMSE - 0.1286 
